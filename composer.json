@@ -1,0 +1,18 @@
+{
+    "name": "lenovo/skripsinilai",
+    "description": "pengelolaan nilai siswa berbasis web",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Skripsinilai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikitasemben",
+            "email": "nikita.semben@si.ukdw.ac.id"
+        }
+    ],
+    "require": {}
+}
